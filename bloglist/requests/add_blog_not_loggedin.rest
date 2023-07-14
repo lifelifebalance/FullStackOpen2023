@@ -2,9 +2,9 @@ POST http://localhost:3003/api/blogs
 Content-Type: application/json
 
 {
-  "title": "Enigma",
+  "title": "Being gay in the UK",
   "author": "Alan Turing",
-  "url": "fighting-nazis.com",
+  "url": "fck-the-uk.co.uk",
   "likes": 111,
   "userId": "649d59f8605aa81d2d17d5a8"
 }
